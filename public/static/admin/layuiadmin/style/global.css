@@ -1,0 +1,57 @@
+
+
+/*新增景区页面*/
+.clearfix{
+    zoom:0;
+}
+.increadOn{overflow:hidden;}
+.increadOn h2{display: inline;}
+.increadOn a{float:right; font-size:14px; color:#333;}
+.demo-input{padding-left: 10px; height: 38px; min-width: 262px; line-height: 38px; border: 1px solid #e6e6e6;  background-color: #fff;  border-radius: 2px;}
+.layui-input-block textarea{width:70%; height:100px; padding:8px; box-sizing: border-box; border:1px solid #e6e6e6; resize: none}
+.layui-upload-img {
+    width: 92px;
+    height: 92px;
+    margin: 0 10px 10px 0;
+}
+
+.uploadImg{  margin-left:110px; }
+.uplods2{margin:10px 0px;}
+.uplods2 ul{}
+.uplods2 ul li{width:200px;  height:100px; float:left;  margin-right:10px; position: relative}
+.uplods2 ul li i{background: url('../../../../images/del.png') no-repeat; width:24px; height:24px; background-size:contain; position: absolute; top:-10px; right: -10px;}
+.picTus{width:200px; height:100px; }
+
+.layui-layer-title {
+    padding: 0 30px;
+    height: 42px;
+    line-height: 42px;
+    border-bottom: 1px solid #eee;
+    font-size: 14px;
+    color: #333;
+    overflow: hidden;
+    background-color: #F8F8F8;
+    border-radius: 2px 2px 0 0;
+    margin-bottom: 30px;
+}
+.padCheck{padding-top:9px; box-sizing: border-box;}
+.yinBtns{display: none;}
+
+
+.layui-table select{width: 150px;
+    height: 25px;
+    border: 1px solid #ddd;
+    color: #333;
+}
+
+.bg{width:100%; display: none; height:100%; background:rgba(0,0,0,0.5); position: fixed; top:0px; left:0px; z-index:1000;}
+.recomTan{width:400px; padding:20px; display: none; box-sizing: border-box; background:#fff; position: fixed; top:30%; left:50%; margin-left:-200px; z-index:1010;}
+.recomTan .recomOver{overflow: hidden; margin-bottom:15px;}
+.recomOver label{width:80px; height:30px; line-height: 30px; text-align:right; float:left; display: inline-block;
+    padding-right:15px; box-sizing: border-box; font-size:14px; color:#333;}
+.recomOver input{width:280px; height:30px; border:1px solid #e6e6e6;  padding-left:8px; box-sizing: border-box; font-size:12px; color:#333;  float:left;}
+.recomOver select{width:280px; height:30px; border:1px solid #e6e6e6; line-height: 30px; float:left;}
+.queLink{width:100%; text-align:center; }
+.queLink button{padding:0px 20px; height: 30px; background:#f5f5f5; line-height: 30px; text-align:center; border:0 none; font-size:12px;
+    color:#666;}
+.queLink button.queren{background:#; margin-right:10px;}
